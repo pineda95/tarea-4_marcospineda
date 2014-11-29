@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1405488199 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/Evaluar.cpp
+	<iostream>
+	<queue>
+
+1405492196 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/main.cpp
+	<iostream>
+	<queue>
+
+1405487385 /home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/Evaluar.cpp
+	<iostream>
+	<queue>
+
+1405492204 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/Evaluador.cpp
+
+1405489166 /home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/Evaluador.h
+	<iostream>
+	<queue>
+
+1406094768 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea2/Evaluador.cpp
+	"Evaluador.h"
+
+1406093803 /home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea2/Evaluador.h
+	<iostream>
+	<stack>
+	<list>
+
+1406094628 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea2/main.cpp
+	"Evaluador.h"
+	<iostream>
+	<stack>
+	<list>
+
+1409601549 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea4/Evaluador.cpp
+	"Evaluador.h"
+
+1409600516 /home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea4/Evaluador.h
+	"NodoArbolBinario.h"
+	"NodoArbolNArio.h"
+	<iostream>
+
+1409600299 /home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea4/NodoArbolBinario.h
+
+1409600420 /home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea4/NodoArbolNArio.h
+	<list>
+
+1409601508 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea4/main.cpp
+	"NodoArbolBinario.h"
+	"NodoArbolNArio.h"
+	"Evaluador.h"
+	<iostream>
+	<list>
+
+1409600533 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea4/NodoArbolBinario.cpp
+	"NodoArbolBinario.h"
+
+1409600362 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea4/NodoArbolNArio.cpp
+	"NodoArbolNArio.h"
+
+1416437869 source:/home/turupawn/Projects/Codeblocks/Clases/Estructura/Tarea4/Evaluador.cpp
+	"Evaluador.h"
+
+1416436079 /home/turupawn/Projects/Codeblocks/Clases/Estructura/Tarea4/Evaluador.h
+	"NodoArbolBinario.h"
+	<iostream>
+
+1416434706 /home/turupawn/Projects/Codeblocks/Clases/Estructura/Tarea4/NodoArbolBinario.h
+
+1416434706 /home/turupawn/Projects/Codeblocks/Clases/Estructura/Tarea4/NodoArbolNArio.h
+	<list>
+
+1416434706 source:/home/turupawn/Projects/Codeblocks/Clases/Estructura/Tarea4/NodoArbolBinario.cpp
+	"NodoArbolBinario.h"
+
+1416434706 source:/home/turupawn/Projects/Codeblocks/Clases/Estructura/Tarea4/NodoArbolNArio.cpp
+	"NodoArbolNArio.h"
+
+1416437524 source:/home/turupawn/Projects/Codeblocks/Clases/Estructura/Tarea4/main.cpp
+	"NodoArbolBinario.h"
+	"Evaluador.h"
+	<iostream>
+	<list>
+
+1416442030 source:c:\users\milenypineda\desktop\estructuratarea4-master\evaluador.cpp
+	"Evaluador.h"
+
+1416442030 c:\users\milenypineda\desktop\estructuratarea4-master\evaluador.h
+	"NodoArbolBinario.h"
+	<iostream>
+
+1416442030 c:\users\milenypineda\desktop\estructuratarea4-master\nodoarbolbinario.h
+
+1416773026 source:c:\users\milenypineda\desktop\estructuratarea4-master\main.cpp
+	"NodoArbolBinario.h"
+	"Evaluador.h"
+	<iostream>
+	<list>
+
+1416442030 source:c:\users\milenypineda\desktop\estructuratarea4-master\nodoarbolbinario.cpp
+	"NodoArbolBinario.h"
+
+1416442030 source:c:\users\milenypineda\desktop\estructuratarea4-master_marcos  pineda\evaluador.cpp
+	"Evaluador.h"
+
+1416442030 c:\users\milenypineda\desktop\estructuratarea4-master_marcos  pineda\evaluador.h
+	"NodoArbolBinario.h"
+	<iostream>
+
+1416442030 c:\users\milenypineda\desktop\estructuratarea4-master_marcos  pineda\nodoarbolbinario.h
+
+1416442030 source:c:\users\milenypineda\desktop\estructuratarea4-master_marcos  pineda\nodoarbolbinario.cpp
+	"NodoArbolBinario.h"
+
+1417217170 source:c:\users\milenypineda\desktop\estructuratarea4-master_marcos  pineda\main.cpp
+	"NodoArbolBinario.h"
+	"Evaluador.h"
+	<iostream>
+	<list>
+
